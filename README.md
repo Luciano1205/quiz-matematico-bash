@@ -6,6 +6,7 @@ Script de Bash que implementa un juego de quiz matemático con problemas de suma
 
 - Sebastián Poveda
 - Luciano Barbosa
+- Alejandro Castro 
 
 ## Descripción
 
